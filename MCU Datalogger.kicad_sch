@@ -1032,13 +1032,11 @@
     (stroke (width 0) (type default))
     (uuid 2ea1a84c-3555-4d60-9050-3dd3db1bba8c)
   )
-<<<<<<< HEAD
-=======
+
   (wire (pts (xy 111.1205 53.6752) (xy 111.1205 58.0501))
     (stroke (width 0) (type default))
     (uuid 3064a9cc-e94e-4fb0-96f2-af09ce650927)
   )
->>>>>>> main
   (wire (pts (xy 165.3774 142.7882) (xy 168.4831 142.7882))
     (stroke (width 0) (type default))
     (uuid 30aeeec8-8fc2-4c00-90df-00aaa2b47395)
